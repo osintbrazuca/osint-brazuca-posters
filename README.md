@@ -19,6 +19,10 @@
 # Introdução
 **OSINT Brazuca Posters** é um repositório criado com intuito de organizar **posters autorais** dentro do projeto OSINT Brazuca.
 
+### Aviso
+> Nossas artes não possuem barreiras para o uso, redistribuição ou veiculação online. No entanto, não autorizamos que seja modificada para gerar ganho financeiro.
+
+
 <br>
 
 # Posters
