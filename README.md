@@ -17,11 +17,7 @@
 
 
 # Introdução
-**OSINT Brazuca Posters** é um repositório criado com intuito de organizar **posters autorais** dentro do projeto OSINT Brazuca.
-
-### Aviso
-> Nossas artes não possuem barreiras para o uso, redistribuição ou veiculação online. No entanto, não autorizamos que seja modificada para gerar ganho financeiro.
-
+**OSINT Brazuca Posters** é um repositório criado com intuito de organizar **posters autorais** dentro do projeto.
 
 <br>
 
@@ -36,9 +32,16 @@
 <th>Medidas</th>
 </tr>
   <tr>
-    <td> <img src="assets/poster-osint-brazuca-pixo.jpg" width="110px" alt="OSINT Brazuca"> </td>
-    <td><a href="posters/poster-osint-brazuca-tretas-pixo.pdf" target="_blank">poster-osint-brazuca-tretas-pixo.pdf</a></td>
+    <td> <img src="assets/mini-poster-osint-brazuca-pixo.png" width="110px" alt="OSINT Brazuca"> </td>
+    <td><a href="posters/2022/poster-osint-brazuca-tretas-pixo.pdf" target="_blank">poster-osint-brazuca-tretas-pixo.pdf</a></td>
     <td>92,2 MB</td>
+    <td>A3</td>
+    <td>297mm x 420mm</td>
+  </tr>
+  <tr>
+    <td> <img src="assets/mini-poster-osint-brazuca-coletasEsetas.png" width="110px" alt="OSINT Brazuca"> </td>
+    <td><a href="posters/2023/poster-osint-brazuca-coletasEsetas.png" target="_blank">poster-osint-brazuca-coletasEsetas.png</a></td>
+    <td>10,0 MB</td>
     <td>A3</td>
     <td>297mm x 420mm</td>
   </tr>
